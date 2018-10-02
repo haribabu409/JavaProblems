@@ -1,0 +1,4 @@
+Java_generics.java	: 	Understanding Java generics.
+ThreadJoin.java		:	Understanding thread.join() method
+SyncClass.java		:	Synchronized block usage.
+ThreadwtnNot.java	: 	Inter thread communication. wait and notify methods.
