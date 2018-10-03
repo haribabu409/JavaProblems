@@ -5,3 +5,4 @@ ThreadwtnNot.java	: 	Inter thread communication. wait and notify methods.
 CustomToStringFrInteger.java: 	Custom toString() method for integer.
 ShareMaxProf.java	:	Maximum profit by making one transaction of buying and selling a share.
 LargestNo.java		: 	Largest no possible by concatenating list of integers.
+SortByFreq.java		:	Sort list of nos based on frequency.
